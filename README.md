@@ -4,7 +4,7 @@
 
 
 <h6 align="center">
-  <b>⚡ Powered By HellBot Networks ⚡</b>
+  <b>⚡ Powered By Mahindra & Mahindra Limited ⚡</b>
 </h6>
 
 ---
@@ -86,10 +86,10 @@
 </p>
 
 <h4 align="center">
-    Copyright (C) 2022 <a href="https://github.com/HellBoy-OP">HellBoy</a>
+    Copyright (C) 2022 <a href="https://github.com/notacoderbro">Hemant 25022724</a>
 </h4>
 
-[Human Detection](https://github.com/HellBoy-OP/HumanDetection) is free software: you can redistribute it and/or modify
+[Human Detection](https://github.com/notacoderbro/HumanDetection) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
