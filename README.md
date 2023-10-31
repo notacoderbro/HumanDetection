@@ -86,7 +86,7 @@
 </p>
 
 <h4 align="center">
-    Copyright (C) 2022 <a href="https://github.com/notacoderbro">Hemant 25022724</a>
+    Copyright (C) 2023 <a href="https://github.com/notacoderbro">Hemant 25022724</a>
 </h4>
 
 [Human Detection](https://github.com/notacoderbro/HumanDetection) is free software: you can redistribute it and/or modify
