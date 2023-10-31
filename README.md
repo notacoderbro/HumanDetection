@@ -107,7 +107,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 <br />
 
 ## Credits
-- 💖 [HellBoy](https://github.com/HellBoy-OP) and [Team](https://github.com/The-HellBot)
+- 💖 [Hemant 25022724](https://github.com/notacoderbro) and [Team](https://github.com/notacoderbro)
 
 <br />
 
